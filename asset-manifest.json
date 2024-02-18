@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/neulab-release-0.1.0/static/css/main.8bb5e6c5.css",
+    "main.js": "/neulab-release-0.1.0/static/js/main.0d43bc2c.js",
+    "index.html": "/neulab-release-0.1.0/index.html",
+    "main.8bb5e6c5.css.map": "/neulab-release-0.1.0/static/css/main.8bb5e6c5.css.map",
+    "main.0d43bc2c.js.map": "/neulab-release-0.1.0/static/js/main.0d43bc2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bb5e6c5.css",
+    "static/js/main.0d43bc2c.js"
+  ]
+}
